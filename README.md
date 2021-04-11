@@ -9,17 +9,17 @@ If this script helped you in any way, please contribute some feedback. Never for
 **Have fun, this is crypto after all!**
 
 Feel free to use my reflink to signup and receive a bonus w/ vultr:
-<a href="https://www.vultr.com/?ref=6903922"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=8844270"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 ## Supported masternode projects
 
-The ever growing list of supported projects is now maintained at [https://nodemaster-vps.com/supported-masternode-projects/](https://nodemaster-vps.com/supported-masternode-projects/).
+The ever growing list of supported projects is not maintained any longer by the originator it would seem.
 
 ---
 
 **NOTE on the VPS choice for starters**
 
-**Vultr** is highly recommended for this kind of setup. I created an [easy step-by-step guide for the VPS provider vultr](/docs/masternode_vps.md) that will guide you through the hardest parts.
+**Vultr** is highly recommended for this kind of setup. He created an [easy step-by-step guide for the VPS provider vultr](/docs/masternode_vps.md) that will guide you through the hardest parts.
 
 ---
 
@@ -27,13 +27,13 @@ The ever growing list of supported projects is now maintained at [https://nodema
 
 Many masternode crypto currencies only have incomplete or even non-existing instructions available how to setup a masternode from source.
 
-This project started as handy bash script to setup my $PIVX masternodes in 2016 when there was almost zero documentation and anything that existed was either $DASH specific, sucked and in most cases both. For that reason, i started to work on a not-so-sucking way to install a lot of different masternodes with next to none manual intervention.
+This project started as handy bash script to setup his $PIVX masternodes in 2016 when there was almost zero documentation and anything that existed was either $DASH specific, sucked and in most cases both. For that reason, he started to work on a not-so-sucking way to install a lot of different masternodes with next to none manual intervention.
 
 If you are not already aware, visit the project site and join the slack. The website at [https://pivx.org/](https://pivx.org/) is also well worth a visit.
 
 Many people use binaries, end of with an insecure configuration or fail completely. This is obviously bad for the stability of the individual network.
 
-After doing hundreds of masternode installations in the past two years, i decided to share some of my existing auto-install and management scripts with the community to work on a generalised & reliable setup for all masternode coins.
+After doing hundreds of masternode installations in the past two years, he decided to share some of his existing auto-install and management scripts with the community to work on a generalised & reliable setup for all masternode coins.
 
 Comparing with building from source manually, you will benefit from using this script in the following way(s):
 
@@ -139,9 +139,9 @@ If you want to check the status of your masternode, the best way is currently ru
 
 # Help, Issues and Questions
 
-I activated the "[issues](https://github.com/masternodes/vps/issues)" option on github to give you a way to document defects and feature wishes. Feel free top [open issues](https://github.com/masternodes/vps/issues) for problems / features you are missing here: [https://github.com/masternodes/vps/issues](https://github.com/masternodes/vps/issues).
+He activated the "[issues](https://github.com/masternodes/vps/issues)" option on github to give you a way to document defects and feature wishes. Feel free top [open issues](https://github.com/masternodes/vps/issues) for problems / features you are missing here: [https://github.com/masternodes/vps/issues](https://github.com/masternodes/vps/issues).
 
-I might not be able to reply immediately, but i do usually within a couple of days at worst. I will also happily take any pull requests that make masternode installations easier for everyone ;-)
+He might not be able to reply immediately, but he did usually within a couple of days at worst. He will also happily take any pull requests that make masternode installations easier for everyone ;-) (and I will pull them in here)
 
 If this script helped you in any way, please contribute some feedback. Never forget:
 
